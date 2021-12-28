@@ -12,11 +12,11 @@
 
 ## Fonts
 
-**Primary:** Hurme Geometric Sans 1 Light
+**Primary:** [Hurme Geometric Sans 1 Light](https://github.com/0xVentures/brand-assets/blob/main/Hurme%20Geometric%20Sans%20No.1.rar)
 
 **Secondary:** Hurme Geometric Sans 2
 
-**Others:** Futura Maxi CG Regular
+**Others:** [Futura Maxi CG Regular](https://github.com/0xVentures/brand-assets/blob/main/Futura%20Maxi%20CG%20Light%20Regular.otf)
 
 ## Logos (Icon version)
 
@@ -27,6 +27,8 @@
 ## Colours
 
 ![unknown](https://user-images.githubusercontent.com/82927810/147581248-715bde9c-313c-4a30-838b-c242839eb246.png)
+
+
 
 
 
